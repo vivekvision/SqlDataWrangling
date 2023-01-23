@@ -1,2 +1,2 @@
-# SQLiteAdv
-SQLite illustrations 
+# SQL Data Wrangling with named subquery 
+SQL named subquery illustrations 
